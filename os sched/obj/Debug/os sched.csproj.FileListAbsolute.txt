@@ -1,0 +1,10 @@
+C:\Users\14000\source\repos\os sched\os sched\bin\Debug\os sched.exe.config
+C:\Users\14000\source\repos\os sched\os sched\bin\Debug\os sched.exe
+C:\Users\14000\source\repos\os sched\os sched\bin\Debug\os sched.pdb
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os sched.csprojAssemblyReference.cache
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os_sched.Properties.Resources.resources
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os sched.csproj.GenerateResource.cache
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os sched.csproj.CoreCompileInputs.cache
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os sched.exe
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os sched.pdb
+C:\Users\14000\source\repos\os sched\os sched\obj\Debug\os_sched.input_form.resources
